@@ -37,15 +37,16 @@ Aplikasi ini membantu memastikan kualitas dan keamanan bahan makanan sehari-hari
 
 3. Registerasi dan Login
    Jika pengguna belum memiliki akun, silakan membuat akun dengan mengklik "Tidak punya akun? Daftar", setelah mengklik maka akan masuk kehalaman registerasi, masukan full nama, email, password, dan pilih gender lalu klik Daftar, setelah berhasil daftar maka penguna bisa masuk aplikasi.
+   
    <img width="565" height="1020" alt="image" src="https://github.com/user-attachments/assets/cee5269a-b49e-44ba-b348-03ae7044e325" />
    <img width="565" height="1020" alt="image" src="https://github.com/user-attachments/assets/86e516dc-2c28-487c-a22b-a11c95e2c991" />
    <img width="565" height="1020" alt="image" src="https://github.com/user-attachments/assets/dd6ef44d-ccf1-4b7d-8b10-a280990d2f5b" />
 
-5. halaman awal
+4. halaman awal
    Halaman awal akan lamsung masuk ke riwayat.
    <img width="565" height="1020" alt="image" src="https://github.com/user-attachments/assets/af62f886-9287-43e1-afb1-51e84dc8d5e3" />
 
-7. cara melakukan mendeteksi Tomat busuk atau Segar 
+5. cara melakukan mendeteksi Tomat busuk atau Segar 
    * Ambil foto tomat menggunakan kamera, atau Unggah foto dari galeri.
      <img width="565" height="1020" alt="image" src="https://github.com/user-attachments/assets/1f6ef3e7-5e1d-46a4-9a2b-922b512d29ea" />
    * Muncul pop up "konfirmasi Gambar" dengan ada pilihan batal atau Prediksi Gambar.
@@ -53,11 +54,12 @@ Aplikasi ini membantu memastikan kualitas dan keamanan bahan makanan sehari-hari
    * Setelah menekan Prediksi Gambar Sistem akan otomatis mendeteksi tomat dan masuk ke Riwayat, disini akan menampilkan ststus tomat itu busuk atau segar seberapa akurat perdiksi nya dan di analisis pada tanggal dan jam berapa.
      <img width="565" height="1020" alt="image" src="https://github.com/user-attachments/assets/a7a47e4e-4ed4-4fda-84cb-ed343e9fe9e7" />
 
-8. Tentang Aplikasi
-   Pengguna dapat membaca tentang aplikasi
+6. Tentang Aplikasi
+   Pengguna dapat membaca informasi singkat tentang aplikasi dan tujuannya.
+   
    <img width="565" height="1020" alt="image" src="https://github.com/user-attachments/assets/b33f71c0-9213-409b-bc2a-d50530c17665" />
 
-10. profile
+7. profile
    Pengguna bisa mengubah nama dari akun mereka dan juga bisa Logout
 <img width="565" height="1020" alt="image" src="https://github.com/user-attachments/assets/5c681bcf-5f80-495d-b4bb-c9198f5c6f93" />
 <img width="565" height="1020" alt="image" src="https://github.com/user-attachments/assets/d5fe7c48-5162-4747-a78e-6f6eb31cda8c" />
