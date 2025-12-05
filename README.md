@@ -82,8 +82,13 @@ Aplikasi ini membantu memastikan kualitas dan keamanan bahan makanan sehari-hari
    ```bash
    python manage.py runserver
    ```
+4. Jalankan server Django:
 
-Backend akan berjalan pada `http://127.0.0.1:8000/` dan siap menerima request dari aplikasi.
+      ```bash
+   lt --port 8000 --subdomain tomatcheack
+   ```
+
+Backend akan berjalan pada `[https://tomatcheack.loca.lt]` dan siap menerima request dari aplikasi.
 
 ---
 
