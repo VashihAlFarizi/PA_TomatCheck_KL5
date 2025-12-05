@@ -39,7 +39,7 @@ class PredictionProvider with ChangeNotifier {
     if (imageFile == null) return;
 
     final url = Uri.parse(
-      'http://127.0.0.1:8000/api/predict-image',
+      'https://tomatcheack.loca.lt/api/predict-image',
     ); // Ganti sesuai backend
     final request = http.MultipartRequest('POST', url)
       ..files.add(await http.MultipartFile.fromPath('image', imageFile!.path));
